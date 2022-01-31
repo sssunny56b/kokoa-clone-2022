@@ -1,0 +1,9 @@
+.notification-dot {
+  background-color: tomato;
+  width: 4px;
+  height: 4px;
+  border-radius: 2px;
+  position: absolute;
+  left: 22px;
+  bottom: 20px;
+}
